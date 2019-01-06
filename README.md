@@ -6,7 +6,7 @@ revised:
 ---
 
 letter deadline | program | notes
---- | --- | 
+--- | --- | ---
 2018-01-18 | [SIParCS](#siparcs) | Higher priority. I will definitely apply.
 2018-01-29 | [NSG MSGI](#nsg-msgi) | Low priority. I am waiting for a response from the program coordinator.
 
