@@ -22,7 +22,12 @@ My cover letter will focus on
 
 ## What I am applying for
 
-I am applying for summer internships at two labs in Boulder, CO. 
+I am applying for summer internships at two labs in Boulder, CO.
+
+lab | internship program
+--- | ---
+NCAR | SIParCS
+RASEI | NSF MSGI
 
 ### SIParCS
 
