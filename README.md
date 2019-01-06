@@ -1,9 +1,6 @@
----
-title: Internships
-author: Colton Grainger
-date: 2019-01-06
-revised:
----
+# Internships
+
+## Deadlines
 
 letter deadline | program | notes
 --- | --- | ---
@@ -16,9 +13,16 @@ material | link
 --- | ---
 cover letter(s) | in progress
 CV | <https://coltongrainger.com/cv>
-transcripts | [this pdf](2019-01-05-total-transcript.pdf)
+transcripts | [this pdf](transcripts/2019-01-05-total-transcript.pdf)
+
+My cover letter will focus on 
+
+- my technical skill in scientific computing, and
+- how statistical and computational experience will support my career goal to do topological data analysis
 
 ## What I am applying for
+
+I am applying for summer internships at two labs in Boulder, CO. 
 
 ### SIParCS
 
@@ -56,4 +60,10 @@ Basic programming skills required, strong preference for familiarity with unix a
 
 ### NSF MSGI
 
-I am tentatively applying to this program. Expect an update after I hear back from the program coordinator.
+I am tentatively applying to this program. I will update this section after I hear back from the program coordinator.
+
+## Thank you!
+
+A strong letter might
+
+> address the student’s academic records and potential for success in an internship, as indicated by communication and teamwork skills.
