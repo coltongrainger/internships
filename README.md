@@ -5,20 +5,15 @@
 letter deadline | program | notes
 --- | --- | ---
 2018-01-18 | [SIParCS](#siparcs) | Higher priority. I will definitely apply.
-2018-01-29 | [NSF MSGI](#nsf-msgi) | Low priority. I am waiting for a response from the program coordinator.
+~~2018-01-29~~ | ~~[NSF MSGI](#nsf-msgi)~~ | ~~Low priority. I am waiting for a response from the program coordinator.~~
 
 ## What I will submit
 
 material | link
 --- | ---
-cover letter(s) | in progress
+statements | [SIParCS historical data](statements/siparcs-historical-data.md.pdf), [SIParCS climate models](statements/siparcs-climate-models.md.pdf)
 CV | <https://coltongrainger.com/cv>
 transcripts | [this pdf](transcripts/2019-01-05-total-transcript.pdf)
-
-My cover letter will focus on 
-
-- my technical skill in scientific computing, and
-- how statistical and computational experience will support my career goal to do topological data analysis
 
 ## What I am applying for
 
@@ -27,7 +22,7 @@ I am applying for summer internships at two labs in Boulder, CO.
 lab | internship program
 --- | ---
 NCAR | SIParCS
-RASEI | NSF MSGI
+~~RASEI~~ | ~~NSF MSGI~~
 
 ### SIParCS
 
@@ -41,6 +36,8 @@ I am applying for 2 projects under the umbrella of SIParCS. They are:
 
 #### project on historical data
 
+[My statement for SIParCS historical data](statements/siparcs-historical-data.md.pdf), and a project description:
+
 > Building a Historical Data Image Archive to Support Climate Research and Retrospective Research of Hand-Written Documents 
 > 
 > Areas of interest: Digital Asset Management
@@ -51,6 +48,8 @@ I am applying for 2 projects under the umbrella of SIParCS. They are:
 > Basic understanding of programming languages such as Python.  Basic understanding of controlled vocabularies and metadata schemas.  Basic understanding of XML and HTML markup languages.  Experience with database query languages such as SQL.  Familiarity with digital provenance concepts.  Ability to interact with mentors and peers in a manner that supports collaboration and inquiry.  Ability to work with diverse staff.  Good problem solving skills.  Good oral and written communication skills.  Willingness to learn and use computing tools and programs.  Overt curiosity to explore new things.  
 
 #### project on climate models
+
+[My statement for SIParCS climate models](statements/siparcs-climate-models.md.pdf), and a project description:
 
 > Applying Machine Learning to Maximize Information Extraction from Imperfect Climate Models
 >
